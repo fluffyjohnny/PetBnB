@@ -1,23 +1,28 @@
-# Next.js + Tailwind CSS Example
+# PetBnB
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## **PetBnB** is a user-friendly, single-page frontend AirBnB clone.
 
-## Deploy your own
+This project was done with the utilization of front-end languages including `NEXT.JS`, `HTML`, `CSS`, `REACT.JS`, along with libraries such as `date-fns`, `geolib`, `react-map-gl`, and `tailwind-scrollbar-hide`. 
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+PetBnB is a react page AirBnB clone that allows users to look housing rentals for their next vacation with their pet. The App diplays the available rentals in a specific area during selected dates. The purpose of this app is to help traveling owners bring their beloved pets along with them, supplying them with amenities and services that is more geared towards their pets. More functionalities are still being planned out and developed. 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+# Final Product
+Index Page
+!["Index"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/index.png)
+!["Search"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/search.png)
+!["Result"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/result.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+# Dependencies
+- react: ^18.2.0
+- next: ^12.2.2
+- react-map-gl: ^7.0.16
+- date-fns: ^2.28.0
+- react-dom: 18.1.0
+- @badrap/bar-of-progress: ^0.2.1
+- @heroicons/react: ^1.0.6
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+# Getting Started
+- Install all dependencies using the `npm install` command.
+- Run the development web server using the `npm run dev` command.
