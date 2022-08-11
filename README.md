@@ -10,7 +10,9 @@ PetBnB is a react page AirBnB clone that allows users to look housing rentals fo
 # Final Product
 Index Page
 !["Index"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/index.png)
+Search Bar 
 !["Search"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/search.png)
+Result Page
 !["Result"](https://raw.githubusercontent.com/fluffyjohnny/PetBnB/main/public/result.png)
 
 
